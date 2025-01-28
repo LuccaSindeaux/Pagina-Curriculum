@@ -1,2 +1,2 @@
-# P-gina-Curriculum
+# Pagina-Curriculum
 Prática de currículo
